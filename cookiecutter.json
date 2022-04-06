@@ -1,0 +1,9 @@
+{
+    "project_name": "my-project",
+    "your_name": "mattmc3",
+    "gitrepo_owner": "mattmc3",
+    "git_domain": "github.com",
+    "_extensions": [
+        "jinja2_time.TimeExtension"
+    ]
+}
